@@ -4,6 +4,5 @@ periféricos ao longo de uma curta distância essa foi a proposta do professor d
 
 Abaixo um video de como ficou a montagem e o resultado do projeto, teve bastante fio, mas eram os recursos fornecidos pelo IFG.
 
-
-
+https://github.com/user-attachments/assets/082248a8-eec6-49db-9503-fc6c8200d6e2
 
