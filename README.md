@@ -6,5 +6,4 @@ Abaixo um video de como ficou a montagem e o resultado do projeto, teve bastante
 
 
 
-https://github.com/user-attachments/assets/7e01a586-730d-4ba9-bbce-7a414cf9dc67
 
