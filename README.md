@@ -1,2 +1,2 @@
 # projetos
- Alguns projetos que fiz na minha jornada de técnico em eletrônica no IFG e agora no bacharelado em Inteligência Artificial
+Esse projeto foi feito por mim, Raphael Alves e meus amigos Gabriel Martins e Adre Novais, quando cursávamos o 4º ano do ensino médio técnico integrado em Eletrônica no Instituto Federal de Educação, Ciência e Tecnologia de Goiás - Campus Goiânia. Ele se consiste na utilização de arduinos para criar uma mini réplica de um painel de embarque e desembarque de um aeroporto. Para esse projeto que foi para a matéria do terceiro bimestre de Microcontroladores e Microprocessadores, utilizamos 3 arduinos, onde seria 1 arduino mestre e 2 arduinos escravos.
